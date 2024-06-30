@@ -1,2 +1,1 @@
-# ExpressMCRwithSequelize
-crud used ExpressJS and ORM databse with sequileze and using MCR architecture model routes controller
+This project implements a CRUD application using Express.js with Sequelize ORM for database operations. It follows the MCR (Model-Controller-Route) architecture pattern to organize code into distinct layers
